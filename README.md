@@ -1,6 +1,5 @@
 # 🧠 Sales Forecasting and Business Insights Project
 
-### 📅 Duration: August 2025 – September 2025  
 **Tech Stack:** Python, Prophet, Streamlit, Plotly, Ollama (LLaMA)
 
 ---
